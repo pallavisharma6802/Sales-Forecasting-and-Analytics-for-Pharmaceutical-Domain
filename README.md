@@ -29,7 +29,7 @@ Users can seamlessly upload sales datasets, perform automated data preprocessing
 ## How to Run the Application
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/pharmacosense.git
+    git clone https://github.com/pallavisharma6802/Sales-Forecasting-and-Analytics-for-Pharmaceutical-Domain.git
     ```
 
 2. Install dependencies:
