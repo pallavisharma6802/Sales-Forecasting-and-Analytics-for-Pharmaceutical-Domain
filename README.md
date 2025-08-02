@@ -1,4 +1,4 @@
-# PharmacoSense: Sales Forecasting and Analytics Platform for Pharmacy Businesses
+# PharmacoSense: Sales Forecasting and Analytics for Pharmaceutical Domain
 
 ## Overview
 **PharmacoSense** is an integrated sales forecasting and analytics platform specifically designed for pharmacy businesses.  
